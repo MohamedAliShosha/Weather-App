@@ -9,5 +9,6 @@ The app fetches real-time weather data from an API.
 - Interactive and user-friendly interface.
 
 ###Technologies
+
 Flutter: The app is developed using Flutter, a powerful framework for building cross-platform applications
 
